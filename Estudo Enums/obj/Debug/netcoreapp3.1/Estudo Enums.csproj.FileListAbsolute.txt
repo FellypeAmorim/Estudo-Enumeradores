@@ -1,0 +1,13 @@
+C:\Users\gisel\Desktop\Projeto C#\Estudo Enums\Estudo Enums\bin\Debug\netcoreapp3.1\Estudo Enums.exe
+C:\Users\gisel\Desktop\Projeto C#\Estudo Enums\Estudo Enums\bin\Debug\netcoreapp3.1\Estudo Enums.deps.json
+C:\Users\gisel\Desktop\Projeto C#\Estudo Enums\Estudo Enums\bin\Debug\netcoreapp3.1\Estudo Enums.runtimeconfig.json
+C:\Users\gisel\Desktop\Projeto C#\Estudo Enums\Estudo Enums\bin\Debug\netcoreapp3.1\Estudo Enums.runtimeconfig.dev.json
+C:\Users\gisel\Desktop\Projeto C#\Estudo Enums\Estudo Enums\bin\Debug\netcoreapp3.1\Estudo Enums.dll
+C:\Users\gisel\Desktop\Projeto C#\Estudo Enums\Estudo Enums\bin\Debug\netcoreapp3.1\Estudo Enums.pdb
+C:\Users\gisel\Desktop\Projeto C#\Estudo Enums\Estudo Enums\obj\Debug\netcoreapp3.1\Estudo Enums.csprojAssemblyReference.cache
+C:\Users\gisel\Desktop\Projeto C#\Estudo Enums\Estudo Enums\obj\Debug\netcoreapp3.1\Estudo Enums.csproj.CoreCompileInputs.cache
+C:\Users\gisel\Desktop\Projeto C#\Estudo Enums\Estudo Enums\obj\Debug\netcoreapp3.1\Estudo Enums.AssemblyInfoInputs.cache
+C:\Users\gisel\Desktop\Projeto C#\Estudo Enums\Estudo Enums\obj\Debug\netcoreapp3.1\Estudo Enums.AssemblyInfo.cs
+C:\Users\gisel\Desktop\Projeto C#\Estudo Enums\Estudo Enums\obj\Debug\netcoreapp3.1\Estudo Enums.dll
+C:\Users\gisel\Desktop\Projeto C#\Estudo Enums\Estudo Enums\obj\Debug\netcoreapp3.1\Estudo Enums.pdb
+C:\Users\gisel\Desktop\Projeto C#\Estudo Enums\Estudo Enums\obj\Debug\netcoreapp3.1\Estudo Enums.genruntimeconfig.cache
